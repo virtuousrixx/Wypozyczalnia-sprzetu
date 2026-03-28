@@ -21,11 +21,11 @@ System pozwala na:
   - `Equipment.cs` to klasa bazowa dla:
   - `Laptop.cs`,
   - `Projector.cs`,
-  - `Camera.cs` – gdzie każdy ma swoje specyficzne pola
+  - `Camera.cs` – gdzie każdy ma swoje specyficzne pola.
   
   - `Person.cs` - to klasa bazowa dla:
   - `Student.cs`,
-  - `Employee.cs` - gdzie każdy ma swoje specyficzne pola
+  - `Employee.cs` - gdzie każdy ma swoje specyficzne pola.
     
   - `Rent.cs` – przechowuje informacje o sprzęcie, osobie i terminie w jakim należy zwrócić rzecz
   - `RentManage.cs` – zarządza wypożyczeniami i zwrotami
